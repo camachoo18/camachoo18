@@ -23,7 +23,7 @@
         <td>
           <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="52" alt="HTML5 logo" />
           <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3 logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL logo" />
+          <img src="https://avantgeo.com/wp-content/uploads/2020/09/SQLite370.svg_.png" width="50" alt="MySQL logo" />
               <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
         <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
