@@ -26,7 +26,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL logo" />
               <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
         <img
-                src="https://github.com/user-attachments/assets/2b005d6f-3228-491c-bc24-01e6868f1f33"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)"
                 alt="javascript"
                 width="50"
                 height="55"
