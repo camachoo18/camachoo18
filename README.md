@@ -61,6 +61,6 @@
   <span>
     <a target="_blank"><img src="https://komarev.com/ghpvc/?username=camachoo18&style=for-the-badge" alt="Profile views" height="25" /></a>
     <a href="mailto:estivencamachops@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25" /></a>
-   /></a>
+   </a>
   </span>
 </p>
