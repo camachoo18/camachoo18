@@ -10,7 +10,7 @@
 ```diff
 🛠️  Studying DAM2 at New Digital Talent.
 #  👨‍💻 I am uploading what was given in class and what I learned on my own.
--  🚀 I use daily: .javascript, html, css, bash, and basic commands in linux. 
+-  🚀 I use daily: .javascript, html, css, sql, nodejs and basic commands in linux. 
 !  ✨ "Cada línea de código que escribes es un paso más hacia la solución. La programación no se trata de saberlo todo, sino de aprender, adaptarse y nunca rendirse." 🚀
 @@ 💻 Looking to improve as a programmer. @@
 ```
