@@ -1,23 +1,23 @@
 <div align="center">
-  <h2>Hola, soy Estiven <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h2>
-  <p>📚 Estudiante de DAM2 en New Digital Talent | 💻 Apasionado por el desarrollo y la tecnología</p>
+  <h2>Hey, I'm Estiven <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h2>
+  <p>📚 DAM2 Student at New Digital Talent | 💻 Passionate about development and technology</p>
 </div>
 
-<!-- Foto de perfil -->
+<!-- Profile Picture -->
 <img align="left" height="150" src="https://i.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
 
-<!-- Descripción -->
+<!-- Description -->
 ```diff
-🛠️ Actualmente estudiando Desarrollo de Aplicaciones Multiplataforma (DAM2).
-# 👨‍💻 Publico contenido basado en lo aprendido en clase y mis estudios autodidactas.
-- 🚀 Tecnologías principales: JavaScript, HTML, CSS, SQL, Node.js y comandos básicos en Linux.
-! ✨ "Cada línea de código es un paso hacia la solución. La clave está en aprender, adaptarse y nunca rendirse." 🚀
-@@ 📌 Buscando mejorar continuamente como programador. @@
+🛠️ Currently studying Multiplatform Application Development (DAM2).
+# 👨‍💻 Sharing what I learn in class and through self-study.
+- 🚀 Main technologies: JavaScript, HTML, CSS, SQL, Node.js, and basic Linux commands.
+! ✨ "Every line of code is a step towards the solution. The key is to learn, adapt, and never give up." 🚀
+@@ 📌 Always looking to improve as a programmer. @@
 ```
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️ Technologies & Tools
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
@@ -48,7 +48,7 @@
 
 ---
 
-### 📬 Contacto
+### 📬 Contact
 <p align="center">
   <a href="mailto:estivencamachops@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25" /></a>
   <img src="https://komarev.com/ghpvc/?username=camachoo18&style=for-the-badge" alt="Profile views" height="25" />
