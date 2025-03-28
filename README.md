@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <h2>Hey, I'm Estiven! <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h2>
   <p>📚 Multiplatform Application Development Junior | 💻 Passionate about technology and coding</p>
 </div>
@@ -41,6 +41,6 @@
 ---
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.webp]" width="150" alt="Coding gif" />
+  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.webp" width="150" alt="Coding gif" />
 </p>
 
