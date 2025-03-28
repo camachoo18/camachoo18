@@ -41,6 +41,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.webp" width="150" alt="Coding gif" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVnODhpanR5ZXd1eHp5NHpqMWszdjU1ZGc2d2VxcG52MnptYWtjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="150" alt="Coding gif" />
 </p>
 
