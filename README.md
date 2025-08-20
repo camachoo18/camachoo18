@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently studying **Multiplatform Application Development (DAM2)**
+- 🎓 Currently studying **Cibersecurity**
 - 💡 Always learning and exploring new technologies
 - 🛠️ Main tech stack: **JavaScript, HTML, CSS, SQL, Node.js, Linux**
 - 🚀 Passionate about problem-solving and continuous improvement
